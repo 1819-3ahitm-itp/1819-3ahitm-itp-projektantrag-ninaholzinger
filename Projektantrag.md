@@ -13,7 +13,7 @@ ein ungebetener Gast sein Schlafzimmer betreten könnte.
 ## Funktionen
 
 Mittels einer USB-Kamera, die an eine RaspberryPi hängt, wird der gewünschte Raum aufgezeichnet. Mit Hilfe der Google Vision API wird überprüft ob eine Person denn Raum betritt.
-Man wird sofort, mittels einer Email benachricht, falls dies der Fall sein sollte. Außerdem wird im Raum, über die Alexa-Sprachsteureung ein Warnsignal ausgeben.
+Man wird sofort, mittels einer Email benachrichtigt, falls dies der Fall sein sollte. Außerdem wird im Raum, über die Alexa-Sprachsteureung ein Warnsignal ausgeben.
 
 ## Nutzen
 
